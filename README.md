@@ -1,6 +1,6 @@
 ## TERRAFORM
 
-## starting
+## Starting
 
 Enter the directory where the .tf file is located
 
