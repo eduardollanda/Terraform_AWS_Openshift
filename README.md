@@ -2,6 +2,12 @@
 
 ## Starting
 
+Clone the repository
+
+```
+$ git clone https://github.com/eduardollanda/Terraform_AWS_Openshift
+```
+
 Enter the directory where the .tf file is located
 
 ```
