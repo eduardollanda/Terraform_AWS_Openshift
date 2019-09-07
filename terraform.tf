@@ -1,6 +1,6 @@
 provider "aws" {
-    access_key = "XXXXXXXXXXX"
-    secret_key = "XXXXXXXXXXX"
+    access_key = "XXXXXXXXXXXX"
+    secret_key = "XXXXXXXXXXXX"
     region     = "us-west-2"
 }
 resource "aws_instance" "web"{
